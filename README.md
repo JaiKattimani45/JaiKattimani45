@@ -10,6 +10,9 @@ Welcome to my GitHub profile! I'm Jai Kattimani, a passionate data analyst with 
 - 💬 Ask me about data analysis techniques, visualization tools, or any data-related queries.
 - ⚡ Fun fact: I love to explore new datasets and uncover hidden patterns!
 
+<img src="![data-analysis](https://github.com/JaiKattimani45/JaiKattimani45/assets/110810509/5e26b7c0-923a-4091-8b8b-e5155738b4de)
+" width='256' />
+
 ## 🛠️ Technologies & Tools
 
 I'm proficient with:
@@ -26,18 +29,13 @@ Here are some data analysis projects:
 
 1. [HR Analytics Dashboard](https://public.tableau.com/app/profile/jai.kattimani/viz/HRANALYTICSDASHBOARD_17103951343650/HRAnalytics) - Analyzed HR data to identify trends and patterns, visualized insights using Tableau.
 
-2. [IPL Win Probability Prediction](https://github.com/JaiKattimani45/IPL_Win_Probability_Prediction) - Analyzed IPL data to identify trends and patterns, visualized insights using Tableau.
+2. [IPL Win Probability Prediction](https://github.com/JaiKattimani45/IPL_Win_Probability_Prediction) - Analyzed IPL data to identify trends and patterns, visualized insights using Python.
 
 Feel free to explore them and provide feedback!
 
 ## 📈 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=JaiKattimani45&show_icons=true&theme=radical)
-
-## 📫 Get in Touch
-
-- LinkedIn: (https://www.linkedin.com/in/jaikattimani/)
-- Email: (mailto:kattimanijai@gmail.com)
 
 ## ❤️ Support Me
 
