@@ -14,12 +14,8 @@ Welcome to my GitHub profile! I'm Jai Kattimani, a passionate data analyst with 
 
 I'm proficient with:
 
-- Programming Languages: Python(![image](https://github.com/JaiKattimani45/JaiKattimani45/assets/110810509/56e245f6-905d-450e-82f6-d151ad9db886)
-), SQL(![image](https://github.com/JaiKattimani45/JaiKattimani45/assets/110810509/d8de7170-0310-453d-804f-045ba7c8d4d6)
-)
-- Data Analysis & Visualization: Pandas, Matplotlib, Seaborn, Plotly, Tableau(![image](https://github.com/JaiKattimani45/JaiKattimani45/assets/110810509/ca7e7543-23d2-402c-a9ab-8670cf19ea54)
-), Power BI(![image](https://github.com/JaiKattimani45/JaiKattimani45/assets/110810509/0fe4b29a-fbe3-4524-86f5-68ae3f361386)
-)
+- Programming Languages: Python, SQL
+- Data Analysis & Visualization: Pandas, Matplotlib, Seaborn, Plotly, Tableau, Power BI
 - Database Management: MySQL
 - Machine Learning: Scikit-learn
 - Version Control: Git, GitHub
@@ -29,8 +25,8 @@ I'm proficient with:
 Here are some data analysis projects:
 
 1. [HR Analytics Dashboard](https://public.tableau.com/app/profile/jai.kattimani/viz/HRANALYTICSDASHBOARD_17103951343650/HRAnalytics) - Analyzed HR data to identify trends and patterns, visualized insights using Tableau.
-   ![HR Analytics Dashboard](![image](https://github.com/JaiKattimani45/JaiKattimani45/assets/110810509/55ab6b51-bb3f-4b93-ab0f-849d12a82f4b)
-)
+
+2. [IPL Win Probability Prediction](https://github.com/JaiKattimani45/IPL_Win_Probability_Prediction) - Analyzed IPL data to identify trends and patterns, visualized insights using Tableau.
 
 Feel free to explore them and provide feedback!
 
@@ -40,8 +36,8 @@ Feel free to explore them and provide feedback!
 
 ## 📫 Get in Touch
 
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/jaikattimani/)
-- Email: [Your Email](mailto:kattimanijai@gmail.com)
+- LinkedIn: (https://www.linkedin.com/in/jaikattimani/)
+- Email: (mailto:kattimanijai@gmail.com)
 
 ## ❤️ Support Me
 
