@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm Jai Kattimani, a passionate data analyst with 
 
 ## Examples of Work
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.caxsol.com%2Fdata-analysis-visualization.html&psig=AOvVaw20-8Qt4QVSQHL6IG1d5cGg&ust=1710503477749000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOCjp5jY84QDFQAAAAAdAAAAABAE" width='256' />
+<img src="https://github.com/JaiKattimani45/JaiKattimani45/blob/main/data-analysis.gif?raw=true" width='256' />
 
 ## 🛠️ Technologies & Tools
 
