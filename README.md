@@ -10,8 +10,6 @@ Welcome to my GitHub profile! I'm Jai Kattimani, a passionate data analyst with 
 - 💬 Ask me about data analysis techniques, visualization tools, or any data-related queries.
 - ⚡ Fun fact: I love to explore new datasets and uncover hidden patterns!
 
-## Examples of Work
-
 <img src="https://github.com/JaiKattimani45/JaiKattimani45/blob/main/data-analysis.gif?raw=true" width='256' />
 
 ## 🛠️ Technologies & Tools
