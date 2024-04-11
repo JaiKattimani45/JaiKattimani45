@@ -29,6 +29,8 @@ Here are some data analysis projects:
 1. [HR Analytics Dashboard](https://public.tableau.com/app/profile/jai.kattimani/viz/HRANALYTICSDASHBOARD_17103951343650/HRAnalytics) - Analyzed HR data to identify trends and patterns, visualized insights using Tableau.
 
 2. [IPL Win Probability Prediction](https://github.com/JaiKattimani45/IPL_Win_Probability_Prediction) - Analyzed IPL data to identify trends and patterns, visualized insights using Python.
+   
+3. [Bike-Store Analysis](https://public.tableau.com/app/profile/jai.kattimani/viz/BikeStoresDashboard_17108406648510/ExecutiveDashboard) - Analyzed Bike-Stores data to identify trends and patterns, visualized insights using Excel & Tableau.
 
 Feel free to explore them and provide feedback!
 
