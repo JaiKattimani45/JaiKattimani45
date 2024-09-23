@@ -32,6 +32,9 @@ Here are some data analysis projects:
    
 3. [Bike-Store Analysis](https://public.tableau.com/app/profile/jai.kattimani/viz/BikeStoresDashboard_17108406648510/ExecutiveDashboard) - Analyzed Bike-Stores data to identify trends and patterns, visualized insights using SQl, Excel & Tableau.
 
+4. [Pizza Sales Dashboard](https://public.tableau.com/app/profile/jai.kattimani/viz/Pizza_Sales_Dashboard_17247617334600/Home) - An Pizza sales dashboard providing comprehensive insights into revenue, profit, and
+quantity sold across various dimensions, empowering informed decision-making for business growth.
+
 Feel free to explore them and provide feedback!
 
 ## 📈 GitHub Stats
